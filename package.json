@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-default.git"
+    "url": "http://inquire.insyde.com:10080/404/gitbook_theme_nginx.git"
   },
   "author": "FriendCode Inc. <contact@gitbook.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GitbookIO/theme-default/issues"
+    "url": "http://inquire.insyde.com:10080/404/gitbook_theme_nginx/issues"
   },
   "contributors": [
     {
