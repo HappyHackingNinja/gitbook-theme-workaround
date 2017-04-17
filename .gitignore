@@ -27,7 +27,7 @@ node_modules
 # vim swapfile
 *.swp
 
-_assets
+# _assets
 
 _book/
 book.pdf
